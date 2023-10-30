@@ -4,18 +4,13 @@ html {
 }
 
 body {
-  font-family: "sans-serif";
-  font-size: 1.6rem;
+  font-family: sans-serif;
+  font-size: 20px;
   line-height: 1.5;
   text-align: center;
   color: black;
-  margin: 0;
-}
-
-body {
-  display: block;
   margin: 8px;
-  font-size: 20px;
+  display: block;
 }
 
 .wrapper-main {
@@ -27,7 +22,7 @@ body {
   flex-direction: column;
   padding: 15px;
   border: radius 5px;
-  background:#eee; 
+  background: #eee;
   display: block;
   margin: 30px 8px;
   justify-content: center;
@@ -64,16 +59,16 @@ h3 {
   font-size: 1.17em;
   margin-block-start: 1em;
   margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
   font-weight: bold;
-  text-align:center;
+  text-align: center;
   margin: 0;
   padding: 40px;
 }
 
 ul {
-  margin: 0 auto 50px auto;
+  margin: 0 auto 50px;
   max-width: 550px;
   text-align: left;
   line-height: 1.6;
@@ -83,14 +78,6 @@ li {
   margin: 16px 0;
   display: list-item;
   text-align: -webkit-match-parent;
-}
-
-body {
-  font-family: "sans-serif";
-  font-size: 1.6rem;
-  line-height: 1.5;
-  text-align: center;
-  color: gray;
 }
 
 section {
@@ -104,6 +91,4 @@ p {
 img {
   border-image-width: auto;
 }
-
-
-    
+   
