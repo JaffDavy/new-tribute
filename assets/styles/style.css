@@ -38,6 +38,7 @@ p {
   margin-block-end: 1em;
   margin-inline-start: 0;
   margin-inline-end: 0;
+  font-size: medium;
 }
 
 #img-div {
@@ -84,11 +85,7 @@ section {
   display: block;
 }
 
-p {
-  font-size: medium;
-}
-
 img {
   border-image-width: auto;
 }
-   
+
